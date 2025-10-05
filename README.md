@@ -1,6 +1,6 @@
 # QGIS Server Docker Example
 
-A Docker Compose setup for running QGIS Server with example WMS and WFS services.
+A small example project. QGIS Server with Docker Compose, serving WMS and WMTS (XYZ) resources. Especially interesting: serving layer groups as WMTS.
 
 Based on [docker/qgis/qgis-server](https://hub.docker.com/r/qgis/qgis-server).
 Maybe replace with [docker/camptocamp/qgis-server](https://hub.docker.com/r/camptocamp/qgis-server).
